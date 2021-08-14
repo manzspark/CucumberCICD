@@ -26,6 +26,7 @@ Feature: Title of your feature
     And some other precondition
     When I complete action
     Then I validate the outcomes
+    Then I validate the outcomes finally
     #And some other action
     #And yet another action
     #And check more outcomes

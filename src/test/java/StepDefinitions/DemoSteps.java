@@ -32,4 +32,11 @@ public class DemoSteps {
 	    // Write code here that turns the phrase above into concrete actions
 	    //throw new io.cucumber.java.PendingException();
 	}
+	
+	@Then("I validate the outcomes finally")
+	public void i_validate_the_outcomes_finally() {
+		System.out.println("Hi");
+	    // Write code here that turns the phrase above into concrete actions
+	    //throw new io.cucumber.java.PendingException();
+	}
 }
